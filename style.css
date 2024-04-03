@@ -54,3 +54,14 @@ li {
   margin-bottom: 5px;
   border-radius: 5px;
 }
+
+.remove-btn {
+  background-color: #f44336;
+  color: #fff;
+  border: none;
+  border-radius: 50%;
+  cursor: pointer;
+  padding: 5px;
+  margin-left: 10px;
+}
+
